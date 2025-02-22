@@ -1,0 +1,8 @@
+venv/
+logs/
+*.csv
+*.json
+*.log
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
