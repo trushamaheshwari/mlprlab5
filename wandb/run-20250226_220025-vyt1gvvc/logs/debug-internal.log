@@ -1,0 +1,18 @@
+{"time":"2025-02-26T22:00:25.23633+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.7","symlink path":"/Users/trushamaheshwari/Code/data_science_code/mlpr/mlprlab5/wandb/run-20250226_220025-vyt1gvvc/logs/debug-core.log"}
+{"time":"2025-02-26T22:00:25.26301+05:30","level":"INFO","msg":"created new stream","id":"vyt1gvvc"}
+{"time":"2025-02-26T22:00:25.263152+05:30","level":"INFO","msg":"stream: started","id":"vyt1gvvc"}
+{"time":"2025-02-26T22:00:25.263237+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"vyt1gvvc"}
+{"time":"2025-02-26T22:00:25.263488+05:30","level":"INFO","msg":"sender: started","stream_id":"vyt1gvvc"}
+{"time":"2025-02-26T22:00:25.263649+05:30","level":"INFO","msg":"handler: started","stream_id":"vyt1gvvc"}
+{"time":"2025-02-26T22:00:44.866415+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-26T22:00:45.89006+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T22:04:11.313907+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T22:04:14.783414+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T22:04:21.97062+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T22:04:23.263459+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T22:04:31.109938+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T22:04:31.542898+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T22:05:40.933837+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T22:05:41.324589+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-26T22:05:47.409521+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-26T22:05:47.974253+05:30","level":"INFO","msg":"Pausing system monitor"}

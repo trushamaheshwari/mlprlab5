@@ -1,0 +1,33 @@
+{
+  "os": "macOS-10.16-x86_64-i386-64bit",
+  "python": "CPython 3.11.4",
+  "startedAt": "2025-02-26T16:30:25.214120Z",
+  "program": "<python with no main file>",
+  "git": {
+    "remote": "https://github.com/trushamaheshwari/mlprlab5.git",
+    "commit": "3605ebcc831c4e7d50c2414d7f03fcaaf584c9ff"
+  },
+  "email": "trusha.mah@gmail.com",
+  "root": "/Users/trushamaheshwari/Code/data_science_code/mlpr/mlprlab5",
+  "host": "trushas-MacBook-Air.local",
+  "executable": "/Users/trushamaheshwari/anaconda3/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "121018208256",
+      "used": "113538449408"
+    },
+    "/System/Volumes/Data": {
+      "total": "121018208256",
+      "used": "113538449408"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

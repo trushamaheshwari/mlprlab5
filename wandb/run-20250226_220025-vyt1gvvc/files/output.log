@@ -1,0 +1,18 @@
+No such comm: 0fafc6f519d24975b62505c8cd2617a3
+No such comm: e738cd7b34394707918c80e27bb00e2b
+No such comm: 7b0d54c2af334970a6e846c37c2394ee
+No such comm: c2e081dbf3894a748d11971c0ce609eb
+No such comm: 8fa46195a7da421a9f38fbd841da6663
+No such comm: 5d8c2463490244ea8cc9059531fcc966
+No such comm: 17a6d28b57ce4975bad99ecd2a4b383b
+No such comm: 946267d3d9ed4a449e4490bd58405a1b
+No such comm: c5d6cede23b84c78902ced6d7109932b
+No such comm: 0648e3ebac914fa2bbff1d5aeddb23fa
+No such comm: 486432a1ce9446e08752899903636d53
+No such comm: 369c96a74487480a97796dfdf973ba93
+No such comm: 5d594cdc6b704fccb7e7aee01f1c8fcd
+No such comm: 2674f9395cf848cb9b7d0aace5627bb8
+No such comm: 452ff2763a6a463dae23f7812ae8c67f
+No such comm: c252c7b932824c54a91b76b6c8b97142
+/Users/trushamaheshwari/anaconda3/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:1412: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  super()._check_params_vs_input(X, default_n_init=10)
